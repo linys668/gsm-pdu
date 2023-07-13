@@ -7,7 +7,7 @@ This is a GSM PDU decoder which implement by java.
 
 Java实现的GSM PDU解码器
 
-source from SmsDecoder(https://gitee.com/DAOSR/SmsDecoder/tree/master)
+source from C sharp SmsDecoder implement. (https://gitee.com/DAOSR/SmsDecoder/tree/master)
 
 ---------------
 ## Usage(使用方法)
